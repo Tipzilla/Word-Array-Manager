@@ -1,0 +1,17 @@
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Array Manager\bin\Debug\net6.0\Word Array Manager.exe
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Array Manager\bin\Debug\net6.0\Word Array Manager.deps.json
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Array Manager\bin\Debug\net6.0\Word Array Manager.runtimeconfig.json
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Array Manager\bin\Debug\net6.0\Word Array Manager.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Array Manager\bin\Debug\net6.0\Word Array Manager.pdb
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Array Manager\bin\Debug\net6.0\Figgle.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Array Manager\obj\Debug\net6.0\Word Array Manager.csproj.AssemblyReference.cache
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Array Manager\obj\Debug\net6.0\Word Array Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Array Manager\obj\Debug\net6.0\Word Array Manager.AssemblyInfoInputs.cache
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Array Manager\obj\Debug\net6.0\Word Array Manager.AssemblyInfo.cs
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Array Manager\obj\Debug\net6.0\Word Array Manager.csproj.CoreCompileInputs.cache
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Array Manager\obj\Debug\net6.0\Word Array Manager.csproj.CopyComplete
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Array Manager\obj\Debug\net6.0\Word Array Manager.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Array Manager\obj\Debug\net6.0\refint\Word Array Manager.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Array Manager\obj\Debug\net6.0\Word Array Manager.pdb
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Array Manager\obj\Debug\net6.0\Word Array Manager.genruntimeconfig.cache
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Array Manager\obj\Debug\net6.0\ref\Word Array Manager.dll

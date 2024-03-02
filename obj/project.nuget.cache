@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Chwzf8Ypd/tWpRwVWbeLN7zdThrqnQsv9427uiZ57o5kPEFobu2JhnzsT9oCrmvkg+FWgoRopHXqYYNtQmmc6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tipzi\\Desktop\\Coding\\School Work\\COMP605 Data Structures and Algorithms\\Assessment 1\\Word Array Manager\\Word Array Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tipzi\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512",
+    "C:\\Users\\tipzi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\tipzi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\tipzi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\tipzi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

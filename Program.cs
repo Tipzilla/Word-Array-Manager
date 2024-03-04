@@ -196,7 +196,6 @@ namespace Word_Array_Manager
 
                         nodeArray[i] = node;
 
-                        Console.WriteLine($"Word '{line}' inserted into the node array.");
                     }
                 }
 
